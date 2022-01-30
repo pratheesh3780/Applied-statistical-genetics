@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Applied Statistical Genetics"
+author: "Dr. Pratheesh P Gopinath"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
