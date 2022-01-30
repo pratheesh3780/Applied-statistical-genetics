@@ -13,14 +13,17 @@ cover-image: images/coverpage.PNG
 ---  
  
 
-# Applied Statistical Genetics {-} 
+# Welcome {-} 
 <p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/coverpage.png" alt="DAEA cover" /></a></p>  
+Welcome to the book **Applied Statistical Genetics**.
 
 # Preface {-}
 
 <p style="text-align: justify;"> **Note**: This book is published by XXXXXXXX. The online version of this book is free to read here, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you have any feedback, please feel free to [file an issue on GitHub](https://github.com/pratheesh3780/Applied-statistical-genetics). Thank you!</p>
 
 <p style="text-align: center;">This book is for all the researchers in Agriculture for improving quality of research </p>  
+
+
 
 
 
