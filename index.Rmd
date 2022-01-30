@@ -1,6 +1,6 @@
 ---
 title: "Applied Statistical Genetics"
-author: "Dr. Pratheesh P. Gopinath, PhD"
+author: "Dr. Pratheesh P. Gopinath, Dr. Manju Mary Paul"
 date: "2022-01-30"
 site: bookdown::bookdown_site
 documentclass: book
